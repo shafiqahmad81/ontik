@@ -57,10 +57,10 @@ document.addEventListener('DOMContentLoaded', () => {
       clickable: true,
     },
    
-    // autoplay: {
-    //   delay: 3000,
-    //   disableOnInteraction: false,
-    // },
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
   });
 
 
